@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ddaa73f7928df2267376",
-    "url": "/css/app.d4e9e146.css"
+    "revision": "5258c040a2191f67133f",
+    "url": "/css/app.2b1f4d61.css"
   },
   {
-    "revision": "ddaa73f7928df2267376",
-    "url": "/js/app.a16f4f20.js"
+    "revision": "5258c040a2191f67133f",
+    "url": "/js/app.ba2cd852.js"
   },
   {
     "revision": "6f2ef614e03415c09193",
@@ -20,10 +20,6 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.e581be2e.js"
   },
   {
-    "revision": "b0dc05d015e91e7d28d79cd0056fe555",
-    "url": "/fonts/nucleo-icons.b0dc05d0.ttf"
-  },
-  {
     "revision": "8224e0160e362e117cbe00495919e2af",
     "url": "/fonts/nucleo-icons.8224e016.eot"
   },
@@ -32,11 +28,15 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.ff208b8d.woff2"
   },
   {
+    "revision": "b0dc05d015e91e7d28d79cd0056fe555",
+    "url": "/fonts/nucleo-icons.b0dc05d0.ttf"
+  },
+  {
     "revision": "ae42fa524981a56f3f289447cff36eb1",
     "url": "/img/nucleo-icons.ae42fa52.svg"
   },
   {
-    "revision": "fab58ed39883dc261e6ddc8bebace1a7",
+    "revision": "15def02c0d04572cc39150324ccd6e2a",
     "url": "/index.html"
   },
   {
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/.gitkeep"
   },
   {
-    "revision": "a9615bac158705203261e8348f574cc8",
-    "url": "/img/default-avatar.png"
-  },
-  {
     "revision": "996d8248f580f8e26e6c45c67da9b5a6",
     "url": "/favicon.png"
+  },
+  {
+    "revision": "a9615bac158705203261e8348f574cc8",
+    "url": "/img/default-avatar.png"
   },
   {
     "revision": "a9615bac158705203261e8348f574cc8",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/img/faces/face-2.jpg"
   },
   {
-    "revision": "be74132f42ae1d3502f9a9b9fff68ac1",
-    "url": "/Dashboard.PNG"
-  },
-  {
     "revision": "ce7a6b79aa55041f7ae36f6ce22231fe",
     "url": "/img/faces/face-3.jpg"
+  },
+  {
+    "revision": "be74132f42ae1d3502f9a9b9fff68ac1",
+    "url": "/Dashboard.PNG"
   },
   {
     "revision": "0b68eb8f1cde1fc9987a9196df05b96a",
@@ -132,11 +132,11 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "897b4cf909210560a84398d36da51983",
-    "url": "/img/sidebar-4.jpg"
-  },
-  {
     "revision": "9ebea76ee1225f00d882b21547a7b49f",
     "url": "/img/sidebar-5.jpg"
+  },
+  {
+    "revision": "897b4cf909210560a84398d36da51983",
+    "url": "/img/sidebar-4.jpg"
   }
 ];
