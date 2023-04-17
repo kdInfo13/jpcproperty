@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e501abab78d4cde55b35",
-    "url": "/css/app.487b43df.css"
+    "revision": "a702e52e3e00c828ce05",
+    "url": "/css/app.ef573a53.css"
   },
   {
-    "revision": "e501abab78d4cde55b35",
-    "url": "/js/app.77ecbf63.js"
+    "revision": "a702e52e3e00c828ce05",
+    "url": "/js/app.f330712d.js"
   },
   {
     "revision": "6f2ef614e03415c09193",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/img/nucleo-icons.ae42fa52.svg"
   },
   {
-    "revision": "a952cc841c533ecb19e0245a02b87bd7",
+    "revision": "5cb9c531652494ec1ce0b9534784ebc8",
     "url": "/index.html"
   },
   {
@@ -49,23 +49,19 @@ self.__precacheManifest = [
   },
   {
     "revision": "a9615bac158705203261e8348f574cc8",
-    "url": "/img/faces/face-0.jpg"
-  },
-  {
-    "revision": "a9615bac158705203261e8348f574cc8",
     "url": "/img/default-avatar.png"
   },
   {
-    "revision": "0e953b1ea6d6e3addd7210e9c7c420a7",
-    "url": "/img/faces/face-2.jpg"
+    "revision": "a9615bac158705203261e8348f574cc8",
+    "url": "/img/faces/face-0.jpg"
   },
   {
     "revision": "99e58416b89637502b40ac8350eed85a",
     "url": "/img/faces/face-1.jpg"
   },
   {
-    "revision": "be74132f42ae1d3502f9a9b9fff68ac1",
-    "url": "/Dashboard.PNG"
+    "revision": "0e953b1ea6d6e3addd7210e9c7c420a7",
+    "url": "/img/faces/face-2.jpg"
   },
   {
     "revision": "ce7a6b79aa55041f7ae36f6ce22231fe",
@@ -108,20 +104,16 @@ self.__precacheManifest = [
     "url": "/img/new_logo.png"
   },
   {
-    "revision": "cd253e23ed052deeb80b42d2ed772183",
-    "url": "/img/sidebar-3.jpg"
-  },
-  {
     "revision": "6be21e8a1b7d63048728851c6003e189",
     "url": "/img/sidebar-1.jpg"
   },
   {
-    "revision": "7a4ce7cc040fc1cb8176cde106e9232f",
-    "url": "/img/sidebar-2.jpg"
+    "revision": "be74132f42ae1d3502f9a9b9fff68ac1",
+    "url": "/Dashboard.PNG"
   },
   {
-    "revision": "9ebea76ee1225f00d882b21547a7b49f",
-    "url": "/img/sidebar-5.jpg"
+    "revision": "cd253e23ed052deeb80b42d2ed772183",
+    "url": "/img/sidebar-3.jpg"
   },
   {
     "revision": "44bf13a71a4db6e15913fe8af9296711",
@@ -138,5 +130,13 @@ self.__precacheManifest = [
   {
     "revision": "897b4cf909210560a84398d36da51983",
     "url": "/img/sidebar-4.jpg"
+  },
+  {
+    "revision": "9ebea76ee1225f00d882b21547a7b49f",
+    "url": "/img/sidebar-5.jpg"
+  },
+  {
+    "revision": "7a4ce7cc040fc1cb8176cde106e9232f",
+    "url": "/img/sidebar-2.jpg"
   }
 ];
